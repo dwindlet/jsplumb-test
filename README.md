@@ -1,2 +1,2 @@
-# jsplumb-test
+# jsplumb-rules
 Created with CodeSandbox
